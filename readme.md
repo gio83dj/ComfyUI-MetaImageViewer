@@ -26,6 +26,10 @@ Pillow (PIL)
 ```
 
 ## 🚀 Installation
+Portable binaries "EXE" download:
+https://github.com/gio83dj/ComfyUI-MetaImageViewer/releases/download/v0.1/ComfyUI.MetaImageViewer.exe
+
+or
 
 1. Clone the repository:
 ```bash
