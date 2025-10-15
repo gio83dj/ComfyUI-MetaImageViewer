@@ -1,5 +1,7 @@
 # 🖼️ ComfyUI MetaImageViewer
 
+https://youtu.be/xgDcXMIAMy8?si=5PFMGef_m37Iez9l
+
 A fast and intuitive image viewer to explore image collections with embedded JSON metadata, specifically designed to visualize AI generation prompts and parameters (ComfyUI, Stable Diffusion, etc.).
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
